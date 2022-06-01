@@ -1,0 +1,12 @@
+{
+  "name": "Unpause Spotify",
+  "version": "1",
+  "description": "Unpauses Spotify when YouTube is paused.",
+  "manifest_version": 3,
+  "author": "Matthew Elliott",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Unpaused"
+  },
+  "icons": { "16": "/16.png", "48": "/48.png", "128": "/128.png" }
+}
